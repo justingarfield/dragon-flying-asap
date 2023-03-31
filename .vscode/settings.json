@@ -1,0 +1,24 @@
+{
+    "Lua.diagnostics.globals": [
+        "UnitFactionGroup",
+        "LibStub",
+        "floor",
+        "TomTom",
+        "C_Map",
+        "C_TalkingHead",
+        "C_Timer",
+        "GetQuestID",
+        "CloseQuest",
+        "GetTitleText",
+        "AcknowledgeAutoAcceptQuest",
+        "GetAutoQuestPopUp",
+        "GetNumAutoQuestPopUps",
+        "C_QuestLog",
+        "UiMapPoint",
+        "C_GossipInfo",
+        "StopCinematic",
+        "GetQuestReward",
+        "AcceptQuest",
+        "GetQuestExpansion"
+    ]
+}

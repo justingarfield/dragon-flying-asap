@@ -1,0 +1,11 @@
+## Interface: 100002
+## Title: DragonFlyingASAP
+## Notes: Get your Dragon Flying with full upgrades ASAP.
+## Author: justingarfield
+## Version: 0.0.1
+## SavedVariables: DragonFlyingASAPDB
+## OptionalDeps: TomTom
+
+embeds.xml
+
+DragonFlyingASAP.lua
